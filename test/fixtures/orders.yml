@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cel_model: MyString
+  imei: 46464
+  parcel_number: 1
+  user: one
+  price: 9.99
+  status: 1
+
+# two:
+#   cel_model: MyString
+#   imei: 75757
+#   parcel_number: 1
+#   user: two
+#   price: 9.99
+#   status: 1
